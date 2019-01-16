@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://123.207.107.134:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>solu best wish</title>
+    <link>https://lingyunfish.github.io/</link>
+    <description>Recent content on solu best wish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://123.207.107.134:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lingyunfish.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

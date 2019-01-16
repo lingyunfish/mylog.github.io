@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://123.207.107.134:1313/categories/</loc>
+    <loc>https://lingyunfish.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://123.207.107.134:1313/</loc>
+    <loc>https://lingyunfish.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://123.207.107.134:1313/tags/</loc>
+    <loc>https://lingyunfish.github.io/</loc>
     <priority>0</priority>
   </url>
   
